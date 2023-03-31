@@ -1,0 +1,33 @@
+body{
+    background-color: ivory;
+}
+
+#table1{
+    background-color: lightpink;
+    
+}
+legend{
+    color: red;
+}
+#div2{
+    background-color: chartreuse;
+}
+#table2{
+    background-color: darkred;
+    color: aliceblue;
+   
+}
+
+    
+#fd1{
+    background-color: lightpink;
+}
+#fd2{
+    background-color: lightgreen ;
+    border-radius: 10px;
+}
+p{
+    color: red;
+}
+
+
